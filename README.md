@@ -1,0 +1,3 @@
+# dianshi_userCommentEmotion
+百度电石第二场用户评论情感极性判别
+第一版代码
